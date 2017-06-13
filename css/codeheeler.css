@@ -1,0 +1,121 @@
+/*body {
+  padding-top: 50px;
+}*/
+
+.primary-style{
+  background-color: #ffffff;
+  color: #00b77e;
+  padding: 50px;
+}
+
+.alternate-style{
+  background-color: #00b77e;
+  color: #ffffff;
+  padding: 50px;
+}
+
+.nav.navbar-nav li a {
+  color: #ffffff;
+}
+
+.nav.navbar-nav a:hover {
+  color: grey;
+}
+
+.navbar.navbar-default div div a {
+  color: #ffffff;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+/*.section-heading {
+  text-align: center;
+}*/
+
+.section-paragraph {
+  font-size: 18px;
+}
+
+/*TODO make the header and navbar work for mobile*/
+.page-header {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: lcd_solidregular;
+  /*background-color: #00b77e;*/
+  background: url("../DSC00804.JPG") no-repeat center center;
+  position: relative;
+  height: 310px;
+  background-size: 100% auto;
+  color: #ffffff;
+  font-size: 130px;
+}
+
+#tagline {
+  font-size: 40px;
+}
+
+.layer {
+  background-color: rgba(0, 183, 126, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.ontop {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: lcd_solidregular;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  font-size: 130px;
+}
+/*#splash {
+  background: url('../DSC00804.JPG') no-repeat center center;
+  height: 500px;
+  background-size: 100% auto;
+  opacity: 0.5;
+}
+
+.ontop {
+  position: relative;
+  top: 4.7em;
+  font-family: lcd_solidregular;
+  color: #00b77e;
+  font-size: 100px;
+}*/
+
+/*.caption {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  width: 100%;
+  font-family: lcd_solidregular;
+  color: #00b77e;
+  font-size: 60px;
+}*/
+
+#being{
+}
+
+#learning{
+}
+
+#sharing{
+}
+
+#joining{
+}
+
+div h2{
+  font-family: superscriptregular;
+}
